@@ -23,5 +23,5 @@ for item in flwing:
     if item not in flwrs:
         print(item)
         distinct_items.remove(item)
-
-# print(distinct_items)
+        
+ print(distinct_items)
